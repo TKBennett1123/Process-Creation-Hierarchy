@@ -1,10 +1,10 @@
 1. Authors: Kyle Bennett, Isabella Nieto
 2. Project: Two versions of the process creation hierarchy
-4. How to compile and run program:
-gcc -Wall -Werror -o pcb_v1 pcb_v1.c
-gcc -Wall -Werror -o pcb_v2 pcb_v2.c
-./pcb_v1 > pcb_v1_output.txt
-./pcb_v2 > pcb_v2_output.txt
+4. How to compile and run program:  
+gcc -Wall -Werror -o pcb_v1 pcb_v1.c  
+gcc -Wall -Werror -o pcb_v2 pcb_v2.c  
+./pcb_v1 > pcb_v1_output.txt  
+./pcb_v2 > pcb_v2_output.txt  
 6. File list:
    * pcb_v1.c (Source code, version 1, PCB structure using linked lists)
    * pcb_v2.c (Source code, version 2, PCB structure avoiding linked lists)
